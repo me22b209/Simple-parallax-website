@@ -27,7 +27,7 @@ This project is a parallax scrolling website built using HTML and CSS. It featur
    ```bash
    git clone https://github.com/me22b209/Simple-parallax-website.git
 2. Go to the directory.
-3. Run the index.html file
+3. Run the parallax.html file
 
 ## Screenshots
 
